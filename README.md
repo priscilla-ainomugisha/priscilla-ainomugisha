@@ -3,39 +3,50 @@ I'm a software engineer based in Uganda.<br/>
 I am passionate about making everyday tools smarter, simpler, and more human — especially for communities often left behind by tech.<br/>
 
 #### What I’m currently working on
-[![The Simplest Bookkeeper](https://img.shields.io/badge/The_Simplest_Bookkeeper-%23009688?style=for-the-badge&logo=Google%20Sheets&logoColor=white)](https://github.com/priscilla-ainomugisha/thesimplestbookeeper)<br/>
-  - A voice-first bookkeeping app tailored for informal African businesses.
-  - **Built with:** Flutter, Laravel, Google Maps API <br/>
+[![The Simplest Bookkeeper](https://img.shields.io/badge/The_Simplest_Bookkeeper-%23009688?style=for-the-badge&logo=Google%20Sheets&logoColor=white)](https://github.com/priscilla-ainomugisha/thesimplestbookeeper)
+A voice-first bookkeeping app tailored for informal African businesses.
+**Built with:** Flutter, Laravel, Google Maps API <br/>
 
 
-[![School Van & Children Tracking System](https://img.shields.io/badge/School_Tracking_System-%230075C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/BSSE25-27) (My final-year project ) <br/>
-  - A real-time platform for tracking school transport and attendance.<br/>
-  - **Built with:** Flutter, Laravel, Google Maps API <br/>
+[![School Van & Children Tracking System](https://img.shields.io/badge/School_Tracking_System-%230075C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/BSSE25-27) 
+A real-time platform for tracking school transport and attendance.(My final-year project)<br/>
+**Built with:** Flutter, Laravel, Google Maps API <br/>
 
 ### Tech Stack 👩‍💻
 
-![Python](https://img.shields.io/badge/Python-%23009688?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-%23009688?style=flat-square&logo=react&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23009688?style=flat-square&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%23009688?style=flat-square&logo=Flutter&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-%23009688?style=flat-square&logo=framer&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23009688?style=flat-square&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23009688?style=flat-square&logo=mysql&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23009688?style=flat-square&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23009688?style=flat-square&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23009688?style=flat-square&logo=trello&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-%23009688?style=flat-square&logo=twilio&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%23009688?style=flat-square&logo=jira&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23009688?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%23009688?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23009688?style=flat-square&logo=gitlab&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23009688?style=flat-square&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23009688?style=flat-square&logo=matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23009688?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23009688?style=flat-square&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23009688?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23009688?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23009688?style=flat-square&logo=scikit-learn&logoColor=white)
+#### 🧠 Languages & Frameworks
+![Python](https://img.shields.io/badge/python-008080?style=flat-square&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/django-008080?style=flat-square&logo=django&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) 
+![React](https://img.shields.io/badge/react-000000?style=flat-square&logo=react&logoColor=61DAFB) 
+
+#### 🎨 Frontend & UI Tools
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
+![Framer](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=61DAFB) 
+
+#### 🗄️ Backend & Databases
+![MySQL](https://img.shields.io/badge/mysql-00758F?style=flat-square&logo=mysql&logoColor=white) 
+
+#### ⚙️ DevOps & Collaboration
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-000000?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-000000?style=flat-square&logo=gitlab&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-0A0FFF?style=flat-square&logo=jira&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-008080?style=flat-square&logo=Trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
+
+#### 🔌 APIs & Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) 
+
+#### 📊 ML & Data Science
+![NumPy](https://img.shields.io/badge/numpy-0000FF?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-02569B?style=flat-square&logo=Matplotlib&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-FF6F00?style=flat-square&logo=Keras&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?style=flat-square&logo=PyTorch&logoColor=white)
 
 
 ### GitHub Stats 🌱
