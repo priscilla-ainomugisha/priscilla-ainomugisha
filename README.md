@@ -5,7 +5,7 @@ I am passionate about making everyday tools smarter, simpler, and more human —
 #### What I’m currently working on
 [![The Simplest Bookkeeper](https://img.shields.io/badge/The_Simplest_Bookkeeper-%23009688?style=for-the-badge&logo=Google%20Sheets&logoColor=white)](https://github.com/priscilla-ainomugisha/thesimplestbookeeper)
 A voice-first bookkeeping app tailored for informal African businesses.
-**Built with:** Flutter, Laravel, Google Maps API <br/>
+**Built with:** Whisper AI,WhatsApp UI <br/>
 
 
 [![School Van & Children Tracking System](https://img.shields.io/badge/School_Tracking_System-%230075C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/BSSE25-27) 
@@ -18,19 +18,10 @@ A real-time platform for tracking school transport and attendance.(My final-year
 ![Django](https://img.shields.io/badge/django-008080?style=flat-square&logo=django&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) 
 ![React](https://img.shields.io/badge/react-000000?style=flat-square&logo=react&logoColor=61DAFB) 
-
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
 ![Framer](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=61DAFB) 
-
-![MySQL](https://img.shields.io/badge/mysql-00758F?style=flat-square&logo=mysql&logoColor=white) 
-
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-000000?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-000000?style=flat-square&logo=gitlab&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-0A0FFF?style=flat-square&logo=jira&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-008080?style=flat-square&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) 
 
