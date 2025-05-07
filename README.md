@@ -1,4 +1,4 @@
-## Hi, I’m Priscilla ✨💫
+## Hi, I’m Priscilla ✨
 I'm a software engineer based in Uganda.<br/>
 I am passionate about making everyday tools smarter, simpler, and more human — especially for communities often left behind by tech.<br/>
 
@@ -12,7 +12,7 @@ A voice-first bookkeeping app tailored for informal African businesses.
 A real-time platform for tracking school transport and attendance.(My final-year project)<br/>
 **Built with:** Flutter, Laravel, Google Maps API <br/>
 
-#### Tech Stack 👩‍💻
+## Tech Stack 👩‍💻
 
 ![Python](https://img.shields.io/badge/python-008080?style=flat-square&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-008080?style=flat-square&logo=django&logoColor=white) 
@@ -33,13 +33,11 @@ A real-time platform for tracking school transport and attendance.(My final-year
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?style=flat-square&logo=PyTorch&logoColor=white)
 
-
-
-#### GitHub Stats 🌱
+### GitHub Stats 🌱
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilla-ainomugisha&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=priscilla-ainomugisha&theme=swift&hide_border=true)<br/>
 
-#### 🌐 Let's connect
+#### Let's connect 💌
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priscilla.ainomugisha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priscilla-ainomugisha-software-engineer/) <br/>
 
 ---
