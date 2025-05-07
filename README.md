@@ -12,22 +12,18 @@ A voice-first bookkeeping app tailored for informal African businesses.
 A real-time platform for tracking school transport and attendance.(My final-year project)<br/>
 **Built with:** Flutter, Laravel, Google Maps API <br/>
 
-### Tech Stack 👩‍💻
+#### Tech Stack 👩‍💻
 
-#### 🧠 Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-008080?style=flat-square&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-008080?style=flat-square&logo=django&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) 
 ![React](https://img.shields.io/badge/react-000000?style=flat-square&logo=react&logoColor=61DAFB) 
 
-#### 🎨 Frontend & UI Tools
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
 ![Framer](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=61DAFB) 
 
-#### 🗄️ Backend & Databases
 ![MySQL](https://img.shields.io/badge/mysql-00758F?style=flat-square&logo=mysql&logoColor=white) 
 
-#### ⚙️ DevOps & Collaboration
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-000000?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-000000?style=flat-square&logo=gitlab&logoColor=white) 
@@ -35,11 +31,9 @@ A real-time platform for tracking school transport and attendance.(My final-year
 ![Trello](https://img.shields.io/badge/Trello-008080?style=flat-square&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
 
-#### 🔌 APIs & Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) 
 
-#### 📊 ML & Data Science
 ![NumPy](https://img.shields.io/badge/numpy-0000FF?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-02569B?style=flat-square&logo=Matplotlib&logoColor=white) 
@@ -49,11 +43,12 @@ A real-time platform for tracking school transport and attendance.(My final-year
 ![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?style=flat-square&logo=PyTorch&logoColor=white)
 
 
-### GitHub Stats 🌱
+
+#### GitHub Stats 🌱
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilla-ainomugisha&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=priscilla-ainomugisha&theme=swift&hide_border=true)<br/>
 
-### 🌐 Socials:
+#### 🌐 Let's connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priscilla.ainomugisha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priscilla-ainomugisha-software-engineer/) <br/>
 
 ---
