@@ -1,6 +1,6 @@
 ## Hi, I’m Priscilla ✨
-I'm a software engineer based in Uganda.<br/>
-I am passionate about making everyday tools smarter, simpler, and more human — especially for communities often left behind by tech.<br/>
+I'm a software engineer based in Uganda. <br/>
+I am passionate about making everyday tools smarter, simpler, and more human — especially for communities often left behind by tech. <br/>
 
 #### What I’m currently working on
 [![The Simplest Bookkeeper](https://img.shields.io/badge/The_Simplest_Bookkeeper-%23009688?style=for-the-badge&logo=Google%20Sheets&logoColor=white)](https://github.com/priscilla-ainomugisha/thesimplestbookeeper)
