@@ -3,7 +3,7 @@ I'm a software engineer based in Uganda. <br/>
 I am passionate about making everyday tools smarter, simpler, and more human — especially for communities often left behind by tech. <br/>
 
 #### What I’m currently working on
-[![The Simplest Bookkeeper](https://img.shields.io/badge/The_Simplest_Bookkeeper-%23009688?style=for-the-badge&logo=Google%20Sheets&logoColor=white)](https://github.com/priscilla-ainomugisha/thesimplestbookeeper)
+[![The Simplest Bookkeeper](https://img.shields.io/badge/The_Simplest_Bookkeeper-%23009688?style=for-the-badge&logo=Google%20Sheets&logoColor=white)](https://github.com/priscilla-ainomugisha/simplestbookeeer)
 A voice-first bookkeeping app tailored for informal African businesses.
 **Built with:** Whisper AI,WhatsApp UI <br/>
 
